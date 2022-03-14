@@ -257,7 +257,7 @@ function App() {
         </main>
         <footer className="row center">
           {userInfo && !userInfo.isAdmin && <ChatBox userInfo={userInfo} />}
-          <div>All right reserved</div>{' '}
+          <div>&copy; {new Date().getFullYear()} Phu Nguyen. All Rights Reserved.</div>{' '}
         </footer>
       </div>
     </BrowserRouter>
