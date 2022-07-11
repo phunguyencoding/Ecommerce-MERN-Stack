@@ -47,3 +47,23 @@ $ npm start
 - However, if you generate sellers by seed http://localhost:5000/api/users/seed first. Then, logging to sellers'account to create their own products --> The problem will be solved!
 
 # Demo
+
+![](demo/p1.jpg)<br />
+![](demo/p2.jpg)<br />
+![](demo/p3.jpg)<br />
+![](demo/p4.jpg)<br />
+![](demo/p5.jpg)<br />
+![](demo/p6.jpg)<br />
+![](demo/p7.jpg)<br />
+![](demo/p8.jpg)<br />
+![](demo/p9.jpg)<br />
+![](demo/p10.jpg)<br />
+![](demo/p11.jpg)<br />
+![](demo/p12.jpg)<br />
+![](demo/p13.jpg)<br />
+![](demo/p14.jpg)<br />
+![](demo/p15.jpg)<br />
+![](demo/p16.jpg)<br />
+![](demo/p17.jpg)<br />
+![](demo/p18.jpg)<br />
+![](demo/p19.jpg)
