@@ -45,3 +45,5 @@ $ npm start
 
 - Running two seeds http://localhost:5000/api/users/seed & http://localhost:5000/api/products/seed in the beginning will assign all products to the very first seller in database.
 - However, if you generate sellers by seed http://localhost:5000/api/users/seed first. Then, logging to sellers'account to create their own products --> The problem will be solved!
+
+# Demo
